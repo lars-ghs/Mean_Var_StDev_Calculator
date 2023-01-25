@@ -2,6 +2,8 @@
 
 This repository contains the code for the Mean-Variance-Standard Deviation Calculator project as part of the freecodecamp data analysis with python certification. The code is written in Python and uses the NumPy library.
 
+My code is in mean_var_std.py. 
+
 ## Project Description on FCC: 
 Create a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
